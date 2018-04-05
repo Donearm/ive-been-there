@@ -12,3 +12,43 @@ console.log('Countries visited: ', visitedCountries.length)
 console.log('Lived in: ', livedInCountries.length)
 console.log('Passed through airport: ', airportCountries.length)
 console.log('Wants to visit someday: ', wantToGoCountries.length)
+
+console.log(process.argv[2])
+
+if (process.argv[2] === "-v") {
+	// Verbose mode
+	console.log('--------------------------------------')
+	console.log('')
+	if (visitedCountries.length > 0) {
+		console.log('')
+		console.log("I've been to:")
+		for (i = 0; i < visitedCountries.length; i++) {
+			console.log(visitedCountries[i].name)
+		}
+	}
+
+	if (livedInCountries.length > 0) {
+		console.log('')
+		console.log("I've lived in:")
+		for (i = 0; i < livedInCountries.length; i++) {
+			console.log(livedInCountries[i].name)
+		}
+	}
+
+	if (airportCountries.length > 0) {
+		console.log('')
+		console.log("I've just passed through one of the airports of:")
+		for (i = 0; i < airportCountries.length; i++) {
+			console.log(airportCountries[i].name)
+		}
+	}
+
+	if (wantToGoCountries.length > 0) {
+		console.log('')
+		console.log("And I still want to go to:")
+		for (i = 0; i < wantToGoCountries.length; i++) {
+			console.log(wantToGoCountries[i].name)
+		}
+	}
+	console.log('')
+}
