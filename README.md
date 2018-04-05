@@ -6,7 +6,7 @@ Includes: `lived`, `visited`, `airport`, `want-to-go`.
 
 ### Contribute
 
-Suggests me new places
+Suggest me new places
 
 ### Run
 
