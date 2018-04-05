@@ -12,6 +12,12 @@ Suggest me new places
 
     node index.js
 
+or
+
+	node index.js -v
+
+for the verbose version. Only difference is that it prints the list of `lived`, `visited`, `airport` and `want-to-go` countries
+
 ### Credits
 
 @RichardLitt for the original idea [i-been-there](https://github.com/RichardLitt/i-been-there)
