@@ -8,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RichardLitt/i-been-there.git"
+    "url": "git+https://github.com/Donearm/ive-been-there.git"
   },
   "keywords": [
     "geolocation",
     "geo",
-    "visit"
+    "visit",
+	"tourism"
   ],
-  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "author": "Gianluca Fiore <forod.g@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RichardLitt/i-been-there/issues"
+    "url": "https://github.com/Donearm/ive-been-there/issues"
   },
-  "homepage": "https://github.com/RichardLitt/i-been-there#readme",
+  "homepage": "https://github.com/Donearm/ive-been-there#readme",
   "dependencies": {
     "lodash": "^4.17.5"
   }
