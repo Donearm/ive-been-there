@@ -1,5 +1,5 @@
 {
-  "name": "i-been-there",
+  "name": "ive-been-there",
   "version": "1.0.0",
   "description": "Places I have been",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "geolocation",
     "geo",
     "visit",
-	"tourism"
+    "tourism"
   ],
   "author": "Gianluca Fiore <forod.g@gmail.com>",
   "license": "MIT",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Donearm/ive-been-there#readme",
   "dependencies": {
+    "chalk": "^2.3.2",
     "lodash": "^4.17.5"
   }
 }
