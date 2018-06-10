@@ -133,5 +133,125 @@
 		"Visited": [
 			"Lviv"
 		]
+	},
+	{
+		"Country": "Poland",
+		"Visited": [
+			"Warsaw",
+			"Krakow",
+			"Lublin",
+			"Wroclaw",
+			"Gdansk",
+			"Sopot",
+			"Gdynia",
+			"Torun",
+			"Krynica Morska",
+			"Zakopane",
+			"Katowice",
+			"Zamość",
+			"Olsztyn"
+		]
+	},
+	{
+		"Country": "Norway",
+		"Visited": [
+			"Oslo"
+		]
+	},
+	{
+		"Country": "Cyprus",
+		"Visited": [
+			"Paphos"
+		]
+	},
+	{
+		"Country": "Italy",
+		"Visited": [
+			"Rome",
+			"Ostia",
+			"Salerno",
+			"Sorrento",
+			"Pompeii",
+			"Naples",
+			"Pozzuoli",
+			"Avellino",
+			"Benevento",
+			"Ariano Irpino",
+			"Bari",
+			"Manfredonia",
+			"Palinuro",
+			"Paestum",
+			"Palermo",
+			"Sciacca",
+			"Mazara Del Vallo",
+			"Selinunte",
+			"Castelvetrano",
+			"Agrigento",
+			"Villasimius",
+			"Olbia",
+			"Palau",
+			"Porto Cervo",
+			"Sassari",
+			"Civitavecchia",
+			"Ancona",
+			"Genoa",
+			"Sanremo",
+			"Ventimiglia",
+			"Venice",
+			"Milan",
+			"Como",
+			"Pavia",
+			"Cremona",
+			"Parma"
+		]
+	},
+	{
+		"Country": "Morocco",
+		"Visited": [
+			"Fes",
+			"Casablanca",
+			"Rabat",
+			"El Jadida",
+			"Marrakesh"
+		]
+	},
+	{
+		"Country": "Tunisia",
+		"Visited": [
+			"Tunis",
+			"Hammamet"
+		]
+	},
+	{
+		"Country": "Egypt",
+		"Visited": [
+			"Cairo",
+			"Aswan",
+			"Edfu",
+			"Luxor",
+			"Hurghada"
+		]
+	},
+	{
+		"Country": "United States",
+		"Visited": [
+			"New York"
+		]
+	},
+	{
+		"Country": "Dominican Republic",
+		"Visited": [
+			"Santo Domingo",
+			"Punta Cana",
+			"Puerto Plata",
+			"Sosua"
+		]
+	},
+	{
+		"Country": "Brazil",
+		"Visited": [
+			"Rio de Janeiro",
+			"Buzios"
+		]
 	}
 ]
