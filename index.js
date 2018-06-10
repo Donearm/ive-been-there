@@ -73,16 +73,14 @@ if (verbose === true) {
 
 // if "-c", then enable showing also cities visited
 if (citiesmode === true) {
-
+	console.log('--------------------------------------');
+	console.log("Cities I've visited, by country:");
 	for (i = 0; i < visitedCities.length; i++) {
-		console.log(visitedCities[i].Country);
-		for (c = 0; c < visitedCities[c].Visited.length; c++) {
+		console.log(chalk.whiteBright.bgBlueBright(visitedCities[i].Country));
+		for (c = 0; c < visitedCities[i].Visited.length; c++) {
 			let currentCity = visitedCities[i].Visited[c];
-			if (currentCity) {
-				console.log(currentCity);
-			} else {
-				continue;
-			}
+			console.log(currentCity);
 		}
+		console.log('');
 	}
 };
