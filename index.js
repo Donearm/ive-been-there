@@ -2,12 +2,15 @@ const _ = require('lodash');
 const chalk = require('chalk');
 
 const countries = require('./countries.json');
-//const cities = require('./cities.json');
+const cities = require('./cities.json');
 
 const visitedCountries = _.filter(countries, {"visited": true});
 const livedInCountries = _.filter(countries, {"lived": true});
 const airportCountries = _.filter(countries, {"airport": true});
 const wantToGoCountries = _.filter(countries, {"want-to-go": true});
+
+const visitedCities = _.filter(cities, function(c) {
+	return c.Visited});
 
 let verbose = false;
 let citiesmode = false;
@@ -70,5 +73,16 @@ if (verbose === true) {
 
 // if "-c", then enable showing also cities visited
 if (citiesmode === true) {
-	console.log("Cities mode has been enabled");
+
+	for (i = 0; i < visitedCities.length; i++) {
+		console.log(visitedCities[i].Country);
+		for (c = 0; c < visitedCities[c].Visited.length; c++) {
+			let currentCity = visitedCities[i].Visited[c];
+			if (currentCity) {
+				console.log(currentCity);
+			} else {
+				continue;
+			}
+		}
+	}
 };

@@ -1,0 +1,137 @@
+[
+	{
+		"Country": "Portugal",
+		"Visited": [
+			"Lisbon",
+			"Albufeira",
+			"Vilamoura",
+			"Faro",
+			"Sintra",
+			"Cascais"
+		]
+	},
+	{
+		"Country": "Spain",
+		"Visited": [
+			"Madrid",
+			"Barcelona",
+			"Sevilla",
+			"Cordoba",
+			"Granada",
+			"Toledo",
+			"Malaga",
+			"Torremolinos",
+			"Tenerife",
+			"Girona",
+			"Figueres"
+		]
+	},
+	{
+		"Country": "France",
+		"Visited": [
+			"Paris",
+			"Mont Saint Michel",
+			"Caen",
+			"Rouen",
+			"Nantes",
+			"Carnac",
+			"Chartres",
+			"Reims",
+			"Nice",
+			"Cannes",
+			"Antibes",
+			"Mentone"
+		]
+	},
+	{
+		"Country": "Uk",
+		"Visited": [
+			"London",
+			"Oxford"
+		]
+	},
+	{
+		"Country": "Belgium",
+		"Visited": [
+			"Bruxelles"
+		]
+	},
+	{
+		"Country": "Austria",
+		"Visited": [
+			"Vienna"
+		]
+	},
+	{
+		"Country": "Germany",
+		"Visited": [
+			"Berlin",
+			"Potsdam",
+			"Frankfurt am Main",
+			"Mainz",
+			"Worms",
+			"Wiesbaden",
+			"Darmstadt",
+			"Koln",
+			"Dortmund"
+		]
+	},
+	{
+		"Country": "Czech Republic",
+		"Visited": [
+			"Prague"
+		]
+	},
+	{
+		"Country": "Hungary",
+		"Visited": [
+			"Budapest"
+		]
+	},
+	{
+		"Country": "Greece",
+		"Visited": [
+			"Athens",
+			"Piraeus",
+			"Poros",
+			"Idra",
+			"Kithira",
+			"Heraklion",
+			"Hersonissos",
+			"Naxos",
+			"Paros",
+			"Santorini",
+			"Ano Koufonisi",
+			"Antiparos",
+			"Corfu"
+		]
+	},
+	{
+		"Country": "Montenegro",
+		"Visited": [
+			"Budva",
+			"Kotor"
+		]
+	},
+	{
+		"Country": "Croatia",
+		"Visited": [
+			"Dubrovnik",
+			"Makarska",
+			"Sućuraj",
+			"Drvenik",
+			"Loviŝte",
+			"Hvar",
+			"Split",
+			"Trogir",
+			"Rogaĉ",
+			"Maslinica"
+		]
+	},
+	{
+		"Country": "Ukraine",
+		"Visited": [
+			"Lviv"
+		]
+	}
+]
