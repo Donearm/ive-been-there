@@ -76,7 +76,7 @@ if (citiesmode === true) {
 	console.log('--------------------------------------');
 	console.log("Cities I've visited, by country:");
 	for (i = 0; i < visitedCities.length; i++) {
-		console.log(chalk.whiteBright.bgBlueBright(visitedCities[i].Country));
+		console.log(chalk.whiteBright.bgBlueBright(visitedCities[i].Country), "=>", chalk.whiteBright.bgRed(visitedCities[i].Visited.length));
 		for (c = 0; c < visitedCities[i].Visited.length; c++) {
 			let currentCity = visitedCities[i].Visited[c];
 			console.log(currentCity);
