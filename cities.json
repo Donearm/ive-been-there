@@ -206,6 +206,13 @@
 		]
 	},
 	{
+		"Country": "Mauritius",
+		"Visited": [
+			"Port Louis",
+			"Grand Baie"
+		]
+	},
+	{
 		"Country": "Morocco",
 		"Visited": [
 			"Fes",
