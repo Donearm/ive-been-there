@@ -30,4 +30,6 @@ will show a list of every city visited. This option can be used in combination w
 
 ### License
 
-MIT
+MIT © Gianluca Fiore
+
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/W7W7KA0Z)
