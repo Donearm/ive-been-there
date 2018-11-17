@@ -10,7 +10,8 @@ const airportCountries = _.filter(countries, {"airport": true});
 const wantToGoCountries = _.filter(countries, {"want-to-go": true});
 
 const visitedCities = _.filter(cities, function(c) {
-	return c.Visited});
+	return c.Visited;
+});
 
 let verbose = false;
 let citiesmode = false;
@@ -83,4 +84,4 @@ if (citiesmode === true) {
 		}
 		console.log('');
 	}
-};
+}
