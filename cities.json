@@ -57,6 +57,13 @@
 		]
 	},
 	{
+		"Country": "Switzerlan",
+		"Visited": [
+			"Basel",
+			"Lucerne"
+		]
+	},
+	{
 		"Country": "Austria",
 		"Visited": [
 			"Vienna"
