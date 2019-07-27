@@ -1,15 +1,14 @@
-const _ = require('lodash');
 const chalk = require('chalk');
 
 const countries = require('./countries.json');
 const cities = require('./cities.json');
 
-const visitedCountries = _.filter(countries, {"visited": true});
-const livedInCountries = _.filter(countries, {"lived": true});
-const airportCountries = _.filter(countries, {"airport": true});
-const wantToGoCountries = _.filter(countries, {"want-to-go": true});
+const visitedCountries = countries.filter(country => country.visited === true);
+const livedInCountries = countries.filter(country => country.lived === true);
+const airportCountries = countries.filter(country => country.airport === true);
+const wantToGoCountries = countries.filter(country => country["want-to-go"] === true);
 
-const visitedCities = _.filter(cities, function(c) {
+const visitedCities = cities.filter(function(c) {
 	return c.Visited;
 });
 

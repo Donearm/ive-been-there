@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/Donearm/ive-been-there#readme",
   "dependencies": {
-    "chalk": "^2.3.2",
-    "lodash": "^4.17.5"
+    "chalk": "^2.3.2"
   }
 }
