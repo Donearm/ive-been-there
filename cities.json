@@ -111,6 +111,7 @@
 		"Country": "Greece",
 		"Visited": [
 			"Athens",
+			"Thessaloniki",
 			"Piraeus",
 			"Poros",
 			"Idra",
@@ -279,6 +280,18 @@
 			"Punta Cana",
 			"Puerto Plata",
 			"Sosua"
+		]
+	},
+	{
+		"Country": "Mexico",
+		"Visited": [
+			"Cancun",
+			"Playa del Carmen",
+			"Tulum",
+			"Akumal",
+			"Puerto Aventura",
+			"Chichen Itza",
+			"Valladolid"
 		]
 	},
 	{

@@ -1022,8 +1022,7 @@
     "date": "",
     "name": "Mexico",
     "note": "",
-	"want-to-go": true,
-    "visited": false
+    "visited": true
   },
   {
     "code": "FM",
@@ -1531,7 +1530,7 @@
     "date": "",
     "name": "Switzerland",
     "note": "",
-    "visited": true 
+    "visited": true
   },
   {
     "code": "SY",
