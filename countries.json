@@ -1055,6 +1055,13 @@
     "visited": false
   },
   {
+	"code": "ME",
+	"date": "",
+	"name": "Montenegro",
+	"note": "",
+	"visited": true
+  },
+  {
     "code": "MS",
     "date": "",
     "name": "Montserrat",
@@ -1400,11 +1407,11 @@
     "visited": false
   },
   {
-    "code": "CS",
+    "code": "RS",
     "date": "",
-    "name": "Serbia and Montenegro",
-    "note": "Just Montenegro",
-    "visited": true
+    "name": "Serbia",
+    "note": "",
+    "visited": false
   },
   {
     "code": "SC",
