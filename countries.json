@@ -527,6 +527,7 @@
     "date": "",
     "name": "Finland",
     "note": "",
+	"airport": true,
 	"want-to-go": true,
     "visited": false
   },
@@ -726,8 +727,7 @@
     "date": "",
     "name": "Indonesia",
     "note": "",
-	"want-to-go": true,
-    "visited": false
+    "visited": true 
   },
   {
     "code": "IR",
@@ -1432,6 +1432,7 @@
     "date": "",
     "name": "Singapore",
     "note": "",
+	"airport": true,
     "visited": false
   },
   {

@@ -307,5 +307,18 @@
 			"Rio de Janeiro",
 			"Buzios"
 		]
+	},
+	{
+		"Country": "Indonesia",
+		"Visited": [
+			"Ubud",
+			"Kuta",
+			"Jimbaran",
+			"Padang Bai",
+			"Canggu",
+			"Seminyak",
+			"Uluwatu",
+			"Gili Trawangan"
+		]
 	}
 ]
